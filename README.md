@@ -1,6 +1,6 @@
 # Medical AI study
 
-### This repository is for practicing of medical analysis with computer vision.
+### This repository is for practicing of image processing.
 <br/>
 
 | Week  | Theme |   Theme Description | Application |  Application Description  |
