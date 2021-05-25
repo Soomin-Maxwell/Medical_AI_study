@@ -1,5 +1,5 @@
 
-### This repository is for practicing of Medical Image processing.
+### This repository is for studying/practicing of Medical Image Analysis.
 
 
 ## Paper Reading 
