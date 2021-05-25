@@ -1,13 +1,16 @@
-# Medical AI study
 
 ### This repository is for practicing of Medical Image processing.
-<br/>
+
+
 ## Paper Reading 
-<br/>
+| Idx  | Theme | Paper | Code |  
+| ------------- | ------------- |------------- |------------- |
+| 1 | Unet |   | | 
+
 
 <br/>
+
 ## Image pre-processing 
-<br/>
 
 | Week  | Theme |   Theme Description | Application |  Application Description  |
 | ------------- | ------------- |------------- |------------- |------------- |
