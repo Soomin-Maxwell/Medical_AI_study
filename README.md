@@ -2,7 +2,7 @@
 ### This repository is for studying/practicing of Medical Image Analysis.
 
 
-## Paper Reading 
+## Paper Review
 | Idx  | Theme | Paper | Code |  
 | ------------- | ------------- |------------- |------------- |
 | 1 | Unet |   | | 
