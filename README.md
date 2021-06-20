@@ -3,9 +3,10 @@
 
 
 ## Paper Review
-| Idx  | Theme | Paper | Code |  
+| Idx  | Theme | Paper Link | Code |  
 | ------------- | ------------- |------------- |------------- |
-| 1 | Unet |   | | 
+| 1 | U-net | https://arxiv.org/abs/1505.04597  | | 
+| 2 | V-net |   | | 
 
 
 <br/>
