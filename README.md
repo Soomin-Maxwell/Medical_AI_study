@@ -3,10 +3,10 @@
 
 
 ## Paper Review
-| Idx  | Theme | Paper Link | Code |  
-| ------------- | ------------- |------------- |------------- |
-| 1 | U-net | https://arxiv.org/abs/1505.04597  | https://github.com/Soomin-Maxwell/Medical_AI_study/blob/main/Unet.ipynb | 
-| 2 | V-net | https://arxiv.org/abs/1606.04797  | | 
+| Idx  | Theme | Review/Code| 
+| ------------- | ------------- |------------- | 
+| 1 | [U-net](https://arxiv.org/abs/1505.04597 ) | Review, [Code](https://github.com/Soomin-Maxwell/Medical_AI_study/blob/main/Unet.ipynb)  | 
+| 2 | [V-net](https://arxiv.org/abs/1606.04797) |  Review, Code |  
 
 
 <br/>
